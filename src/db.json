@@ -1,0 +1,38 @@
+[ 
+  {
+    "id": 0,
+    "descripcion": "Consola Nintendo Switch",
+    "precio": 345,
+    "imagen": "nintendo-switch.jpeg",
+    "unidades": 10,
+    "categoria": "videoconsolas",
+    "carrito":0
+  },
+  {
+    "id": 1,
+    "descripcion": "Thermomix",
+    "precio": 990,
+    "imagen": "thermomix.jpeg",
+    "unidades": 5,
+    "categoria": "electrodomesticos",
+    "carrito":0
+  },
+  {
+    "id": 2,
+    "descripcion": "Rosas San Valentin",
+    "precio": 59,
+    "imagen": "rosas.jpeg",
+    "unidades": 7,
+    "categoria": "plantas",
+    "carrito":0
+  },
+  {
+    "id": 3,
+    "descripcion": "Sofá",
+    "precio": 599,
+    "imagen": "sofa.jpeg",
+    "unidades": 4,
+    "categoria": "sofas",
+    "carrito":0
+  }
+]
